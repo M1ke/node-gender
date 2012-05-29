@@ -1,0 +1,7 @@
+{
+  "name": "node-gender",
+  "version": "0.0.1",
+  "main": "main",
+  "author": "Martin Rue <hello@martinrue.com>",
+  "description": "Guesses gender based on first name"
+}
